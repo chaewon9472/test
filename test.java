@@ -3,6 +3,7 @@ public class test {
         System.out.println("lastsdfsdf");
         System.out.println("test");
         int a = 10;
+        a = 2;
 
     }
 }
