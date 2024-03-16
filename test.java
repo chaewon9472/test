@@ -3,7 +3,6 @@ public class test {
         System.out.println("lastsdfsdf");
         System.out.println("testdffdgfdfdgfdgfgdfgdgfdgdgdfgfdgfgfgfgdfgdgdg");
         int a = 10;
-        a = 2;
 
     }
 }
